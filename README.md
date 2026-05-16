@@ -1,5 +1,3 @@
-# analysis-of-algorithms
-
 # Analysis of Algorithms
 
 Analysis of Algorithms is a course (or subject area) focused on how efficient algorithms are — not just whether a program works, but how well it works in terms of:
